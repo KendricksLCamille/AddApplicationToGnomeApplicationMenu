@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Terminal=false
+
+Name=Kendricks
+Comment=Comment Code
+Icon=Path
+Exec=e.exe
+Categories=d;fake;t

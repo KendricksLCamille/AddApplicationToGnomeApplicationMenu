@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Application Name
+Comment=Application description
+Icon=/path/to/icon.xpm
+Exec=/path/to/application/executable
+Terminal=false
+Categories=Tags;Describing;Application
+Name=KendricksComment=Comment CodeIcon=PathExec=e.exeCategories=d;fake;t[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Application Name
+Comment=Application description
+Icon=/path/to/icon.xpm
+Exec=/path/to/application/executable
+Terminal=false
+Categories=Tags;Describing;Application
